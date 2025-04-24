@@ -1,5 +1,5 @@
 # SRAM.Net
-[![NuGet Version](https://img.shields.io/nuget/v/SRAM.Net)](https://www.nuget.org/packages/SRAM.Net/)
+[![NuGet Version](https://img.shields.io/nuget/v/SRAM.SCIM.Net)](https://www.nuget.org/packages/SRAM.SCIM.Net/)
 [![GitHub Release](https://img.shields.io/github/v/release/team-golfslag/SRAM.Net?label=GitHub%20Release)
 ](https://github.com/team-golfslag/SRAM.Net/releases)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/team-golfslag/SRAM.Net)](https://github.com/team-golfslag/SRAM.Net/issues)
